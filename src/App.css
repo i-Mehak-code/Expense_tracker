@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+  /* background-color: #3f3f3f;*/
+  background-image: url("https://assets.gqindia.com/photos/608c135f6e6a489a62cd254d/16:9/w_1280,c_limit/Apps%20for%20finance%20management.jpg");
+}
